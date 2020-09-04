@@ -39,7 +39,7 @@
     },
     "devDependencies": {
         "css-loader": "^2.1.0",
-        "node-sass": "^4.10.0",
+        "node-sass": "^4.13.1",
         "nodemon": "^1.18.9",
         "sass-loader": "^7.1.0",
         "scss": "^0.2.4",
